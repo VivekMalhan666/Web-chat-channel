@@ -1,6 +1,8 @@
 * {
   margin: 0;
   color: rgb(184, 178, 169);
+  scrollbar-color: rgba(0, 0, 0, 0.2) hsla(0, 0%, 100%, 0.1);
+  scrollbar-width: thin;
 }
 
 body {

@@ -40,3 +40,8 @@
   margin-left: 10px;
   background-color: #282c2d;
 }
+.sidebar__chats {
+  flex: 1;
+  background-color: rgb(15, 22, 26);
+  overflow: scroll;
+}
