@@ -32,6 +32,13 @@ function Chat() {
           </IconButton>
         </div>
       </div>
+      <div className="chat__body">
+        <p className={`chat__message ${true && "chat__reciever"}`}>
+          <span className="chat__name">Dumb Dumb</span>
+          Hey guys
+          <span className="chat__timestamp">3:52am</span>
+        </p>
+      </div>
       <div className="chat__footer"></div>
     </div>
   );
