@@ -18,6 +18,8 @@ function Chat() {
   const sendMessage = (e) => {
     e.preventDefault();
     console.log("Typing detected", input);
+
+    setInput("");
   };
 
   return (
