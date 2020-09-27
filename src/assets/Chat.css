@@ -9,7 +9,7 @@
   display: flex;
   align-items: center;
   border-bottom: 1px solid rgba(179, 176, 176, 0.507);
-  background-color: rgb(30, 30, 63);
+  background-color: #110b11;
 }
 .chat__headerInfo {
   flex: 1;
@@ -46,7 +46,7 @@
   max-width: 40vw;
   margin-bottom: 20px;
   margin-top: 5px;
-  background-color: rgba(52, 49, 65, 0.808);
+  background-color: #161b27;
   overflow-wrap: anywhere;
   font-weight: 600;
 }
@@ -71,6 +71,7 @@
   justify-content: space-between;
   align-items: center;
   height: 60px;
+  background-color: #161b27;
   border-top: 1px solid rgba(179, 176, 176, 0.507);
 }
 .chat__footer > form {

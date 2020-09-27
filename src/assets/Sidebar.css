@@ -6,7 +6,7 @@
 .sidebar__header {
   display: flex;
   padding: 20px;
-  background-color: rgb(30, 30, 63);
+  background-color: #110b11;
   border-right: 1px solid rgba(179, 176, 176, 0.609);
   justify-content: space-between;
   border-bottom: 1px solid rgba(179, 176, 176, 0.609);
@@ -25,14 +25,14 @@
 .sidebar__search {
   display: flex;
   align-items: center;
-  background-color: rgb(29, 28, 37);
+  background-color: #273a54;
   padding: 10px;
   height: 39px;
 }
 .sidebar__searchContainer {
   display: flex;
   align-items: center;
-  background-color: #282c2d;
+  background-color: #294766;
   width: 100%;
   height: 35px;
   border-radius: 20px;
@@ -40,10 +40,11 @@
 .sidebar__searchContainer > input {
   border: none;
   margin-left: 10px;
-  background-color: #282c2d;
+  color: #ffffff !important;
+  background-color: #294766;
 }
 .sidebar__chats {
   flex: 1;
-  background-color: rgb(15, 22, 26);
+  background-color: #161b27;
   overflow: scroll;
 }
