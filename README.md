@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is hosted at https://chatroom-b8147.web.app/
+
+A few more features are coming soon
+
 ### Technologies involved:
 
 - React
